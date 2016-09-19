@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="d1f10191-55ba-47a1-9294-17970478aa06" 
+        solutionId="d1f10191-55ba-47a1-9294-17970478aa06" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="JSOM_ListProjectsAndTasks"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="8d25d207-ecfc-47f5-a7c1-e4c1c3623e67" />
+  </features>
+</package>
