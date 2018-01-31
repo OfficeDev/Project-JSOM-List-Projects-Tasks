@@ -1,0 +1,19 @@
+### YamlMime:Sample
+sample:
+- name: 'Project add-in: JSOM List Projects and Tasks'
+  path: ''
+  description: This app shows you how to list the projects and tasks within your Project site.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: NadinMerali
+  platforms: []
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Project
+    scenarios: []
