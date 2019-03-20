@@ -1,3 +1,14 @@
+---
+topic: sample
+products:
+- Project
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  createdDate: 9/15/2016 2:28:15 PM
+---
 # Project-JSOM-List-Projects-Tasks
 Lists the Projects and Tasks within the PWA site
 
